@@ -1,7 +1,7 @@
-const express = require('express');
-const path = require('path');
+var express = require('express');
+var path = require('path');
+var serveStatic = require('serve-static');
 
-let app = express()
-app.use('/public', express.static(path.join(__dirname, 'public')));
-
-app.listen(process.env.PORT || 3000);
+let app = express();
+app.use(serveStatic(__dirname + "/dist"));
+app.listen(process.env.PORT || 5000);
