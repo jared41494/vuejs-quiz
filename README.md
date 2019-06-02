@@ -33,7 +33,7 @@ Have not deployed this application anywhere. Any server that runs Node.js should
 
 ## Authors
 
-* **Jared Rummell ** - *Initial work* - [PurpleBooth](https://github.com/jared41494)
+* **Jared Rummell ** - *Initial work* - [jared41494](https://github.com/jared41494)
 
 See also the list of [contributors](https://github.com/jared41494/vuejs-quiz/graphs/contributors) who participated in this project.
 
