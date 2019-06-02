@@ -22,7 +22,9 @@ After installing Node.js locally and pulling the repo
 
 ## Deployment
 
-Have not deployed this application anywhere. Any server that runs Node.js should be able to run this application. For a free host, try https://www.heroku.com/
+Application has been deployed here:
+
+https://rummell-quiz-vuejs.herokuapp.com/
 
 ## Built With
 
