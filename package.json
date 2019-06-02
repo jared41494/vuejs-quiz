@@ -13,7 +13,8 @@
     "bootstrap-vue": "^2.0.0-rc.22",
     "core-js": "^2.6.5",
     "lodash": "^4.17.11",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",
