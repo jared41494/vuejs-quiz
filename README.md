@@ -1,29 +1,46 @@
-# quiz
+# Vue.js 10 Question Animal Quiz
 
-## Project setup
-```
-npm install
-```
+Big shoutout to freeCodeCamp.org! I followed their Vue.js tutorial:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+https://www.youtube.com/watch?v=4deVCNJq3qc
 
-### Compiles and minifies for production
-```
-npm run build
-```
+I am well versed in JavaScript and jQuery. I consider this to be my first official Vue.js application. 
 
-### Run your tests
-```
-npm run test
-```
+## Getting Started
 
-### Lints and fixes files
-```
-npm run lint
-```
+After installing Node.js locally and pulling the repo
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Open up command line
+2. Navigate to the directory of the repo on your own machine
+3. Run commands in order:
+	- npm install
+	- npm run serve
+
+### Prerequisites
+
+1. Node.js (https://nodejs.org/en/)
+
+## Deployment
+
+Have not deployed this application anywhere. Any server that runs Node.js should be able to run this application. For a free host, try https://www.heroku.com/
+
+## Built With
+
+* [Node.js] (https://nodejs.org/en/) Server
+* [Vue.js] (https://vuejs.org/) js framework used
+* [Bootsrap + Vue] (https://bootstrap-vue.js.org/) css framework for Vue
+* [Lodash] (https://lodash.com/) niffty array functions
+
+## Authors
+
+* **Jared Rummell ** - *Initial work* - [PurpleBooth](https://github.com/jared41494)
+
+See also the list of [contributors](https://github.com/jared41494/vuejs-quiz/graphs/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* freeCodeCamp.org Thank you for teaching me new things!
